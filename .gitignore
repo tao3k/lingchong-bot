@@ -1,0 +1,8 @@
+/target/
+/.cache/
+/.run/
+/.data/direnv/
+/.devenv/
+.env
+.env.*
+!.env.example
