@@ -17,7 +17,7 @@ test = false
 bench = false
 
 [dependencies]
-pulldown-cmark = "0.12"
+pulldown-cmark = "0.13"
 reqwest = { version = "0.13", default-features = false, features = ["json", "rustls"] }
 serde = { version = "1", features = ["derive"] }
 
